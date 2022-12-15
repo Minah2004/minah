@@ -1,0 +1,202 @@
+b {
+  color: rgb(207, 126, 4);
+}
+
+header {
+  background-color: rgb(36, 35, 35);
+  color: aliceblue;
+  padding-left: 90px;
+  border: 1px solid grey;
+  padding: 3px 3px;
+  padding-left: 85px;
+}
+
+.navbar {
+  background-color: rgb(88, 87, 87);
+  border-radius: 3px;
+  border-top: 3px solid grey;
+}
+
+.navbar ul {
+  overflow: auto;
+}
+
+.navbar li {
+  float: right;
+  list-style: none;
+  margin: 13px 20px;
+  padding-top: 24px;
+  border-radius: 12px;
+
+}
+
+.navbar li a {
+  padding: 6px 6px;
+  text-decoration: none;
+  color: aliceblue;
+  padding-top: 75px;
+}
+
+.meeting {
+  float: left;
+  padding: 15px 85px;
+  color: aliceblue;
+  padding-left: 85px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#first {
+  padding-left: 85px;
+  color: rgb(78, 78, 78);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p {
+  padding-right: 450px;
+}
+
+.btn {
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.btn:hover {
+  color: black;
+  background-color: rgb(243, 255, 11);
+}
+.box {
+  display: inline-block;
+  background-color: rgb(155, 50, 50);
+  border: 3px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  float: left;
+  color: beige;
+  padding-top: 90px;
+  padding-left: 80px;
+  padding-right: 40px;
+  font-size: x-large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h5 {
+  padding-left: 0%;
+  padding-right: 0%;
+  font-size: medium;
+}
+#second {
+  color: rgb(75, 75, 75);
+  font-size: large;
+  padding-left: 400px;
+  padding-right: 70px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+hr {
+  border: 3px solid black;
+}
+#flex1 {
+  background-color: rgb(54, 54, 57);
+  border: 3px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  float: left;
+  color: beige;
+  padding-top: 10px;
+  padding-left: 80px;
+  padding-right: 40px;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-bottom: 64px;
+}
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 30px;
+}
+button:hover {
+  color: black;
+  background-color: rgb(243, 255, 11);
+}
+#flex2 {
+  background-color: rgb(62, 64, 76);
+  border: 3px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  float: left;
+  color: beige;
+  padding-top: 10px;
+  padding-left: 80px;
+  padding-right: 40px;
+  font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-bottom: 144px;
+  margin-left: 90px;
+}
+
+#flex3 {
+  background-color: rgb(62 64 76);
+  border: 3px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  float: left;
+  color: beige;
+  padding-top: 10px;
+  padding-left: 80px;
+  padding-right: 40px;
+  font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-bottom: 144px;
+  float: right;
+  backface-visibility: 50%;
+}
+
+#flex4 {
+  background-color: rgb(62, 64, 76);
+  border: 3px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  float: left;
+  color: beige;
+  padding-top: 10px;
+  padding-left: 80px;
+  padding-right: 40px;
+  font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-bottom: 144px;
+  float: right;
+}
+#flex5 {
+  background-color: rgb(62, 64, 76);
+  border: 3px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 30px;
+  float: left;
+  color: beige;
+  padding-top: 10px;
+  padding-left: 80px;
+  padding-right: 40px;
+  font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-bottom: 144px;
+  float: right;
+}
